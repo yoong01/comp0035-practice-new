@@ -1,0 +1,9 @@
+# Basic project information
+[project]
+name = "comp0035-practice-project"
+version = "2024.0.0"
+
+# Most students will use setuptools, though poetry is also an option
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
